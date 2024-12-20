@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/ZhEkA717/three-js-tutorial#readme",
   "dependencies": {
+    "dat.gui": "^0.7.9",
+    "gui": "^0.15.4",
     "three": "^0.171.0"
   },
   "devDependencies": {
